@@ -1,6 +1,6 @@
 # *sureshrabari*
 ### Description
-Made this website for freelancing hosted on python Anywhere for 3 months.
+Made End to End website for freelancing, hosted on python Anywhere for 3 months.
 
 ## Table of Contents
 [Technology stack](#technology-stack)
