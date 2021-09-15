@@ -1,9 +1,10 @@
 # *sureshrabari*
 ### Description
-Made this website for my uncle also for practicing, hosted on python Anywhere for 3 months.
+Made this website for freelancing hosted on python Anywhere for 3 months.
 
 ## Table of Contents
 [Technology stack](#technology-stack)
+
 [Project snips](#project-snips)
 
 #### Technology Stack
