@@ -90,7 +90,7 @@ body {font-family: "Lato", sans-serif}
         <div class="w3-third w3-margin-bottom">
           <div class="w3-container w3-white">
           <a href="https://www.google.com/maps/search/?api=1&query={{ event.location }}" target="_blank">
-            <p><b>{{ event.district }}</b></p>
+            <p><b>{{event.eventName}} {{ event.district }}</b></p>
             <p class="w3-opacity">{{ event.date }}</p>
             <p>{{ event.address }}</p>
           </a>
@@ -108,7 +108,7 @@ body {font-family: "Lato", sans-serif}
         <div class="w3-third w3-margin-bottom">
           <div class="w3-container w3-white">
           <a href="https://www.google.com/maps/search/?api=1&query={{ event.location }}" target="_blank">
-            <p><b>{{ event.district }}</b></p>
+            <p><b>{{event.eventName}} {{ event.district }}</b></p>
             <p class="w3-opacity">{{ event.date }}</p>
             <p>{{ event.address }}</p>
           </a>

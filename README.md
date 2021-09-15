@@ -29,5 +29,8 @@ Admin tour view, to add events to the website. Also in presentable form.
 ![alt text](https://github.com/IamSpider/sureshrabari/blob/master/imagesforGitHubReadMe/Admin%20Contact%20Us%20view.PNG "Admin Contact view")
 Submitted contact forms will be available here to review by the admin.
 
+![alt text](https://github.com/IamSpider/sureshrabari/blob/master/imagesforGitHubReadMe/Suresh%20Rabari%20—%20Mozilla%20Firefox%20(Private%20Browsing)%202021-09-14%2018-31-27.mp4 "Admin Contact view")
+Video of the project.
+
 
 Used sqlite as database to reduce load on server as it's serverless database.
